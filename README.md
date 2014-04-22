@@ -1,4 +1,4 @@
 testEclipse
 ===========
 
-test
+This repository was created for testing GitHub and Eclipse using the EGit plugin.
